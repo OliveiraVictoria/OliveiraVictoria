@@ -8,8 +8,11 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love dancing, singing, especially if it's kpop. I also love playing whenever I can!
 -->
-![Victoria GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraVictoria&show_icons=true&theme=midnight-purple)
-[![Victoria Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraVictoria&icons=true&theme=midnight-purple)](https://github.com/OliveiraVictoria/github-readme-stats)
+
+<p><img height ="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraVictoria&show_icons=true&theme=midnight-purple&bg_color=303030&locale=en&layout=compact" alt="OliveiraVictoria" /></p>
+
+<p>&nbsp;<img height ="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=OliveiraVictoria&show_icons=true&theme=midnight-purple&bg_color=303030&locale=en" alt="OliveiraVictoria" /></p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OliveiraVictoria&theme=dracula" alt="OliveiraVictoria" /></p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
