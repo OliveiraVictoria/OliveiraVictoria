@@ -1,4 +1,6 @@
-### Olá, eu sou a Victoria ou Vick !!
+<img src="/assets/img/lofi.gif">
+<h1 align="center">Hii, I'm Vick !!</h1>
+<img align="right" alt="Coding" width="400" src="">
 <!--
 - 💼 I'm not working at the moment but I'm open to new contacts!
 - 🌱 I’m currently learning JavaScript and all Front-End
