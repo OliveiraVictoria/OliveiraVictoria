@@ -1,15 +1,14 @@
 <img src="/assets/img/lofi.gif">
-<h1 align="center">Hii, I'm Vick !!</h1>
-<img align="right" alt="Coding" width="400" src="">
 <!--
 - 💼 I'm not working at the moment but I'm open to new contacts!
 - 🌱 I’m currently learning JavaScript and all Front-End
 - 👯 I’m looking to collaborate on anything in Front-End 
 - 💬 Ask me about anything, I would love to share knowledge with you
 - 📫 How to reach me: oliveira_victoria from instagram and my nick VMoon19 or VMoon
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love dancing, singing, especially if it's kpop. I also love playing whenever I can!
 -->
+<h1 align="center">Hii, I'm Vick !!</h1>
+
 
 <p><img height ="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraVictoria&show_icons=true&theme=midnight-purple&bg_color=303030&locale=en&layout=compact" alt="OliveiraVictoria" /></p>
 
